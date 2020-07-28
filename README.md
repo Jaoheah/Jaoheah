@@ -1,1 +1,1 @@
-<script src="https://cdn.rawgit.com/eth-button/eth-button/09673e85d517452e18a5248b96115bc552a0ac01/dist/eth-button.js" data-address="0x151900E1c584D1563858e8791eE73544d2e5a413" data-meta="eth-button"></script>
+
